@@ -1,3 +1,20 @@
 body {
     margin: 0;
+    text-align: center;
+}
+
+.container-head {
+    background: #6943fe;
+    color: white;
+    padding: 30px;
+}
+
+.container-section {
+    background: #f4f4f4;
+    padding: 10px;
+}
+
+.section {
+    background: white;
+    padding: 5px;
 }
